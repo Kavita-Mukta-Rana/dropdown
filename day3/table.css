@@ -1,0 +1,26 @@
+/* table
+{
+    border: 3px double blueviolet ;
+    border-collapse: collapse;
+}
+th
+{
+    border: 2px double blueviolet ;
+}
+td{
+    border: 2px double blueviolet ;
+} */
+
+table,td,th
+{
+    border: 2px double blueviolet ; 
+    border-collapse: collapse;
+}
+.q
+{
+    color: yellow;
+}
+.nq
+{
+    color: palevioletred;
+}

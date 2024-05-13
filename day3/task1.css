@@ -1,0 +1,14 @@
+table
+{
+    border: 2px solid #b7d110;
+    border-collapse: collapse;
+
+}
+th
+{
+    border: 2px solid #b7d110;
+}
+td
+{
+    border: 2px solid #b7d110; 
+}

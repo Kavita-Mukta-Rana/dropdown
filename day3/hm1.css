@@ -1,0 +1,19 @@
+table,tr,td,th{
+    border: 2px solid pink;
+    border-collapse: collapse;
+}
+
+.g
+{
+    color:red;
+}
+
+.g1
+{
+    color:blue;
+}
+
+.g2
+{
+    color: green;
+}
